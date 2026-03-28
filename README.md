@@ -5,6 +5,8 @@
 **SMTP Server Project**  
 
 **Objective:**  
+
+
 Developed a scalable SMTP email server to ensure secure email transactions, improve email deliverability, and minimize spam through the implementation of modern email authentication protocols.  
 
 **Implementation Details:**  
